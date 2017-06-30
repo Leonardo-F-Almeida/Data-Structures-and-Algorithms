@@ -1,0 +1,6 @@
+C:\Users\Leonardo\Documents\SharpDevelop Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\SharpDevelop Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Leonardo\Documents\SharpDevelop Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Leonardo\Documents\SharpDevelop Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Leonardo\Documents\SharpDevelop Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Leonardo\Documents\SharpDevelop Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
