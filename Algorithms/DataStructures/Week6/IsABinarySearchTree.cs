@@ -25,7 +25,7 @@
 	Output Format. If the given binary tree is a correct binary search tree (see the defnition in the problem
 	description), output one word “CORRECT” (without quotes). Otherwise, output one word “INCORRECT” (without quotes).
  */
-
+/*
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -98,3 +98,4 @@ public static class IsABinarySearchTree
 	}
 	
 }
+*/

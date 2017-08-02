@@ -48,6 +48,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlgoOnGraphs\Reachability.cs" />
     <Compile Include="DataStructures\Week1\BracketsCheck.cs" />
     <Compile Include="DataStructures\Week1\TreeHeight.cs" />
     <Compile Include="DataStructures\Week3\HeapSort.cs" />
