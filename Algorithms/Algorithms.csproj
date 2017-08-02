@@ -56,22 +56,31 @@
     <Compile Include="DataStructures\Week6\TreeOrder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Week2\APlusB.cs" />
-    <Compile Include="Week2\fibonacci.cs" />
-    <Compile Include="Week2\fibonacci_huge.cs" />
-    <Compile Include="Week2\fibonacci_last_digit.cs" />
-    <Compile Include="Week2\gcd.cs" />
-    <Compile Include="Week2\lcm.cs" />
-    <Compile Include="Week2\MaxPairwise.cs" />
-    <Compile Include="week3\change.cs" />
-    <Compile Include="week3\FractionalKnapsack.cs" />
-    <Compile Include="Week4\binary_search.cs" />
-    <Compile Include="Week4\majority_element.cs" />
-    <Compile Include="Week5\edit_distance.cs" />
-    <Compile Include="Week5\Knapsack.cs" />
+    <Compile Include="AlgoToolbox\Week2\APlusB.cs" />
+    <Compile Include="AlgoToolbox\Week2\fibonacci.cs" />
+    <Compile Include="AlgoToolbox\Week2\fibonacci_huge.cs" />
+    <Compile Include="AlgoToolbox\Week2\fibonacci_last_digit.cs" />
+    <Compile Include="AlgoToolbox\Week2\gcd.cs" />
+    <Compile Include="AlgoToolbox\Week2\lcm.cs" />
+    <Compile Include="AlgoToolbox\Week2\MaxPairwise.cs" />
+    <Compile Include="AlgoToolbox\Week3\change.cs" />
+    <Compile Include="AlgoToolbox\Week3\FractionalKnapsack.cs" />
+    <Compile Include="AlgoToolbox\Week4\binary_search.cs" />
+    <Compile Include="AlgoToolbox\Week4\majority_element.cs" />
+    <Compile Include="AlgoToolbox\Week5\edit_distance.cs" />
+    <Compile Include="AlgoToolbox\Week5\Knapsack.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="AlgoOnGraphs\09_graph_decomposition_problems_1.pdf" />
+    <None Include="AlgoToolbox\Week2\01_introduction_problems.pdf" />
+    <None Include="AlgoToolbox\Week3\greedy_algorithms_problems.pdf" />
+    <None Include="AlgoToolbox\Week4\divide_and_conquer_problems_20161023.pdf" />
+    <None Include="AlgoToolbox\Week5\dynamic_programming_problems.pdf" />
     <None Include="app.config" />
+    <None Include="DataStructures\Week1\Programming-Assignment-1.pdf" />
+    <None Include="DataStructures\Week3\Programming-Assignment-2.pdf" />
+    <None Include="DataStructures\Week4\Programming-Assignment-3.pdf" />
+    <None Include="DataStructures\Week6\Programming-Assignment-4.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataStructures" />
@@ -79,10 +88,12 @@
     <Folder Include="DataStructures\Week4" />
     <Folder Include="DataStructures\Week3" />
     <Folder Include="DataStructures\Week1" />
-    <Folder Include="Week5" />
-    <Folder Include="Week4" />
-    <Folder Include="week3" />
-    <Folder Include="Week2" />
+    <Folder Include="AlgoOnGraphs" />
+    <Folder Include="AlgoToolbox" />
+    <Folder Include="AlgoToolbox\Week5" />
+    <Folder Include="AlgoToolbox\Week4" />
+    <Folder Include="AlgoToolbox\Week3" />
+    <Folder Include="AlgoToolbox\Week2" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

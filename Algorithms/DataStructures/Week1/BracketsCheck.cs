@@ -25,8 +25,6 @@ namespace Algorithms.DataStructures.Week1
 	  			var input = Console.ReadLine();
             	isBalanced(input);
 	            Console.ReadKey();	
-	  	
-           
         }
 	  	
 	  	static void isBalanced(String str)
@@ -84,7 +82,6 @@ namespace Algorithms.DataStructures.Week1
 	  			
 	  			}
 	  		}
-	  			
 	  		
 	  		if(hasError)
 	  		{
