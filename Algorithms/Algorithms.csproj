@@ -48,7 +48,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AlgoOnGraphs\Reachability.cs" />
+    <Compile Include="AlgoOnGraphs\Week1\Reachability.cs" />
+    <Compile Include="AlgoOnGraphs\Week2\Acyclicity.cs" />
+    <Compile Include="AlgoOnGraphs\Week2\Toposort.cs" />
     <Compile Include="DataStructures\Week1\BracketsCheck.cs" />
     <Compile Include="DataStructures\Week1\TreeHeight.cs" />
     <Compile Include="DataStructures\Week3\HeapSort.cs" />
@@ -72,7 +74,7 @@
     <Compile Include="AlgoToolbox\Week5\Knapsack.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="AlgoOnGraphs\09_graph_decomposition_problems_1.pdf" />
+    <None Include="AlgoOnGraphs\Week1\09_graph_decomposition_problems_1.pdf" />
     <None Include="AlgoToolbox\Week2\01_introduction_problems.pdf" />
     <None Include="AlgoToolbox\Week3\greedy_algorithms_problems.pdf" />
     <None Include="AlgoToolbox\Week4\divide_and_conquer_problems_20161023.pdf" />
@@ -84,6 +86,8 @@
     <None Include="DataStructures\Week6\Programming-Assignment-4.pdf" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="AlgoOnGraphs\Week2" />
+    <Folder Include="AlgoOnGraphs\Week1" />
     <Folder Include="DataStructures" />
     <Folder Include="DataStructures\Week6" />
     <Folder Include="DataStructures\Week4" />

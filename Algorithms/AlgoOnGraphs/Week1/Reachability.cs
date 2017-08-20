@@ -4,7 +4,7 @@
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
-
+/*
 using System;
 using System.Linq;
 using System.Collections.Generic;
@@ -125,3 +125,4 @@ namespace AlgoOnGraphs.week1
 		}
 	}
 }
+*/
